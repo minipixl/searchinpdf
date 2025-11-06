@@ -24,5 +24,5 @@ Result example in Excel
 ![Screenshot](./screenshots/8.jpg)  
 
 File structure for for screenshot example:  
-![Screenshot](./screenshots/9.jpg)  
+![Screenshot](./screenshots/9.png)  
 
