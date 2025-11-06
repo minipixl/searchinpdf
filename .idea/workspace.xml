@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45d048b7-f302-472e-8f65-18388b9c4c79" name="Changes" comment="Inital version">
+    <list default="true" id="45d048b7-f302-472e-8f65-18388b9c4c79" name="Changes" comment="updated version">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/7.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +109,31 @@
       <option name="project" value="LOCAL" />
       <updated>1762445525596</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated version">
+      <option name="closed" value="true" />
+      <created>1762446605100</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762446605100</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated version">
+      <option name="closed" value="true" />
+      <created>1762446693489</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762446693489</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated version">
+      <option name="closed" value="true" />
+      <created>1762446700304</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762446700304</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inital version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inital version" />
+    <MESSAGE value="updated version" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated version" />
   </component>
 </project>
