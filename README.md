@@ -24,22 +24,5 @@ Result example in Excel
 ![Screenshot](./screenshots/8.jpg)  
 
 File structure for for screenshot example:  
-
-│   searchinpdf.exe  
-│  
-└───test  
-        matches.xlsx  
-        tetst (1).pdf  
-        tetst (10).pdf  
-        tetst (11).pdf  
-        tetst (12).pdf  
-        tetst (2).pdf  
-        tetst (3).pdf  
-        tetst (4).pdf  
-        tetst (5).pdf  
-        tetst (6).pdf  
-        tetst (7).pdf  
-        tetst (8).pdf  
-        tetst (9).pdf  
-
+![Screenshot](./screenshots/9.jpg)  
 
